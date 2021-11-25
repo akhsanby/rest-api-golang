@@ -1,1 +1,3 @@
-"# rest-api-golang" 
+# rest api golang 
+
+GET & POST
